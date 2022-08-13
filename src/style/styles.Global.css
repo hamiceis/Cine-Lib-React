@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+
+:root {
+  --cor1: #5B84FD;
+  --cor2: #5352E3;
+  --cor3: #A252E3;
+  --cor4: #222;
+  --cor5: #F7D854;
+  --cor6: #B8930B;
+
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: var(--cor4);
+  color: var(--cor3);
+}
+
+
+a {
+  text-decoration: none;
+  color: var(--cor5);
+  transition: .5s;
+}
+
+a:hover {
+  color: var(--cor6);
+}
+
+
+
+
+
+
