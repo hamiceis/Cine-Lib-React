@@ -6,7 +6,7 @@ Projeto que busca de uma API sobre informações de filmes
 
 ## Screenshots
 
-![App Screenshot]([https://i.ibb.co/6XjyNqK/1660531917635.png](https://i.ibb.co/5Kb12JQ/1660531917635.png))
+![App Screenshot](https://i.ibb.co/5Kb12JQ/1660531917635.png)
 
 ## 🛠 Tecnologias e Bibliotacas utilizadas:
 
