@@ -26,7 +26,7 @@ export default function Navbar() {
       <h2>
         <Link to="/">
           <BiCameraMovie />
-          Movie Lib
+          Cine Lib React
         </Link>
       </h2>
 

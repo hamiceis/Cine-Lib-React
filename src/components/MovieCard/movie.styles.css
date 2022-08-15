@@ -31,7 +31,6 @@
 
 .movies_container div img {
   max-width: 100%;
-  cursor: pointer;
 }
 
 .movies_container div img, 
