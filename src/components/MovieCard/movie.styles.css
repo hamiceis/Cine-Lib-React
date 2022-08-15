@@ -6,7 +6,7 @@
 }
 
 .title .query_text {
-  color: #f7d354;
+  color: #A252E3;
 }
 
 .movies_container {
@@ -19,7 +19,7 @@
 }
 
 .movies_container div {
-  width: 30%;
+  width: 20%;
   color: #fff;
   margin-bottom: 2.5rem;
   display: flex;
@@ -44,9 +44,10 @@
   color: #f7d354;
 }
 
+
 .movies_container div a {
-  background-color: #f7d354;
-  border: 2px solid #f7d354;
+  background-color: #A252E3;
+  border: 2px solid #A252E3;
   border-radius: 4px;
   color: #000;
   padding: 1rem 0.5rem;
@@ -56,5 +57,5 @@
 
 .movies_container div a:hover {
   background-color: transparent;
-  color: #f7d354;
+  color: #A252E3;
 }

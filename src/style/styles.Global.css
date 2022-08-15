@@ -27,12 +27,12 @@ body {
 
 a {
   text-decoration: none;
-  color: var(--cor5);
+  color: var(--cor3);
   transition: .5s;
 }
 
 a:hover {
-  color: var(--cor6);
+  color: #a252e386;
 }
 
 

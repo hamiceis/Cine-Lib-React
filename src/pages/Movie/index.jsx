@@ -11,6 +11,7 @@ import {
   BsFillFileEarmarkTextFill
 } from 'react-icons/bs'
 
+const imgURL = import.meta.env.VITE_IMG;
 const moviesURL = import.meta.env.VITE_API
 const apiKey = import.meta.env.VITE_API_KEY
 
