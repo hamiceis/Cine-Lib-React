@@ -9,7 +9,7 @@ export function Home() {
   const [topMovies, setTopMovies] = useState([])
 
   //Função para pegar os dados da API e setando no setTopMovies
-  const getDataToMovies = async url => {
+  const getDataToMovies = async(url) => {
     const { data } = await axios.get(url)
     setTopMovies(data.results)
   }
