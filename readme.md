@@ -29,4 +29,4 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 #Port 
 
-`http://localhost:5173/`
+`http://127.0.0.1:5173/`
